@@ -1,0 +1,14 @@
+body {
+	background-color: #ddd;
+}
+
+.svg-wrapper {
+	position: relative; 
+	display: inline-block;
+}
+
+object {
+	height: 200px; 
+	position: relative; 
+	z-index: -1;
+}
